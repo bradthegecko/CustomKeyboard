@@ -412,6 +412,14 @@
     [
       "aaa1400c-18c9-4b83-ab7e-c530ca104a6d",
       "Root"
+    ],
+    [
+      "7cb30e2d-077e-4f6b-9b31-a09d54cd01c7",
+      "keyboard_matrix"
+    ],
+    [
+      "b1111ac9-608b-4dfe-b586-313897de2924",
+      "LEDs"
     ]
   ],
   "text_variables": {}
