@@ -4592,7 +4592,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 88.9 151.13 0)
 			(effects
 				(font
@@ -4680,7 +4680,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 323.85 133.35 0)
 			(effects
 				(font
@@ -4768,7 +4768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 378.46 97.79 0)
 			(effects
 				(font
@@ -4924,7 +4924,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 133.35 0)
 			(effects
 				(font
@@ -5012,7 +5012,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 306.07 133.35 0)
 			(effects
 				(font
@@ -5168,7 +5168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 139.7 133.35 0)
 			(effects
 				(font
@@ -5256,7 +5256,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 139.7 97.79 0)
 			(effects
 				(font
@@ -5412,7 +5412,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 97.79 0)
 			(effects
 				(font
@@ -5500,7 +5500,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 187.96 78.74 0)
 			(effects
 				(font
@@ -5928,7 +5928,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 204.47 115.57 0)
 			(effects
 				(font
@@ -6152,7 +6152,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 133.35 0)
 			(effects
 				(font
@@ -6240,7 +6240,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 151.13 0)
 			(effects
 				(font
@@ -6532,7 +6532,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 78.74 0)
 			(effects
 				(font
@@ -6688,7 +6688,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 341.63 115.57 0)
 			(effects
 				(font
@@ -6844,7 +6844,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 60.96 0)
 			(effects
 				(font
@@ -6932,7 +6932,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 115.57 0)
 			(effects
 				(font
@@ -7020,7 +7020,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 156.21 133.35 0)
 			(effects
 				(font
@@ -7312,7 +7312,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 60.96 0)
 			(effects
 				(font
@@ -7672,7 +7672,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 156.21 115.57 0)
 			(effects
 				(font
@@ -7760,7 +7760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 151.13 0)
 			(effects
 				(font
@@ -8120,7 +8120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 323.85 97.79 0)
 			(effects
 				(font
@@ -8548,7 +8548,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 187.96 60.96 0)
 			(effects
 				(font
@@ -8636,7 +8636,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 151.13 0)
 			(effects
 				(font
@@ -8724,7 +8724,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 88.9 97.79 0)
 			(effects
 				(font
@@ -8948,7 +8948,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 97.79 0)
 			(effects
 				(font
@@ -9036,7 +9036,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 323.85 115.57 0)
 			(effects
 				(font
@@ -9260,7 +9260,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 156.21 60.96 0)
 			(effects
 				(font
@@ -9484,7 +9484,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 156.21 97.79 0)
 			(effects
 				(font
@@ -9572,7 +9572,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 78.74 0)
 			(effects
 				(font
@@ -9728,7 +9728,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 97.79 0)
 			(effects
 				(font
@@ -9816,7 +9816,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 358.14 115.57 0)
 			(effects
 				(font
@@ -9972,7 +9972,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 358.14 133.35 0)
 			(effects
 				(font
@@ -10060,7 +10060,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 151.13 0)
 			(effects
 				(font
@@ -10148,7 +10148,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 78.74 0)
 			(effects
 				(font
@@ -10236,7 +10236,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 115.57 0)
 			(effects
 				(font
@@ -10800,7 +10800,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 273.05 151.13 0)
 			(effects
 				(font
@@ -10956,7 +10956,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 273.05 60.96 0)
 			(effects
 				(font
@@ -11044,7 +11044,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 187.96 115.57 0)
 			(effects
 				(font
@@ -11132,7 +11132,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 187.96 133.35 0)
 			(effects
 				(font
@@ -11220,7 +11220,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 306.07 78.74 0)
 			(effects
 				(font
@@ -11308,7 +11308,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 78.74 0)
 			(effects
 				(font
@@ -11464,7 +11464,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 306.07 151.13 0)
 			(effects
 				(font
@@ -11824,7 +11824,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 88.9 133.35 0)
 			(effects
 				(font
@@ -12184,7 +12184,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 341.63 97.79 0)
 			(effects
 				(font
@@ -12272,7 +12272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 273.05 78.74 0)
 			(effects
 				(font
@@ -12496,7 +12496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 60.96 0)
 			(effects
 				(font
@@ -12584,7 +12584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 97.79 0)
 			(effects
 				(font
@@ -12740,7 +12740,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 97.79 0)
 			(effects
 				(font
@@ -12828,7 +12828,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 151.13 0)
 			(effects
 				(font
@@ -12916,7 +12916,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 133.35 0)
 			(effects
 				(font
@@ -13140,7 +13140,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 78.74 0)
 			(effects
 				(font
@@ -13228,7 +13228,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 204.47 60.96 0)
 			(effects
 				(font
@@ -13384,7 +13384,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 151.13 0)
 			(effects
 				(font
@@ -13472,7 +13472,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 60.96 0)
 			(effects
 				(font
@@ -13560,7 +13560,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 273.05 97.79 0)
 			(effects
 				(font
@@ -13648,7 +13648,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 88.9 115.57 0)
 			(effects
 				(font
@@ -13804,7 +13804,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 187.96 97.79 0)
 			(effects
 				(font
@@ -13892,7 +13892,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 273.05 115.57 0)
 			(effects
 				(font
@@ -13980,7 +13980,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 156.21 78.74 0)
 			(effects
 				(font
@@ -14204,7 +14204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 171.45 78.74 0)
 			(effects
 				(font
@@ -14292,7 +14292,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 115.57 0)
 			(effects
 				(font
@@ -14380,7 +14380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 139.7 60.96 0)
 			(effects
 				(font
@@ -14468,7 +14468,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 97.79 0)
 			(effects
 				(font
@@ -14692,7 +14692,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 323.85 151.13 0)
 			(effects
 				(font
@@ -14780,7 +14780,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 323.85 78.74 0)
 			(effects
 				(font
@@ -14936,7 +14936,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 256.54 60.96 0)
 			(effects
 				(font
@@ -15092,7 +15092,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 171.45 133.35 0)
 			(effects
 				(font
@@ -15180,7 +15180,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 123.19 133.35 0)
 			(effects
 				(font
@@ -15336,7 +15336,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 133.35 0)
 			(effects
 				(font
@@ -15424,7 +15424,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 139.7 115.57 0)
 			(effects
 				(font
@@ -15580,7 +15580,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 204.47 78.74 0)
 			(effects
 				(font
@@ -15872,7 +15872,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 289.56 115.57 0)
 			(effects
 				(font
@@ -15960,7 +15960,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 78.74 0)
 			(effects
 				(font
@@ -16048,7 +16048,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 378.46 133.35 0)
 			(effects
 				(font
@@ -16272,7 +16272,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 358.14 151.13 0)
 			(effects
 				(font
@@ -16496,7 +16496,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 115.57 0)
 			(effects
 				(font
@@ -16584,7 +16584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 133.35 0)
 			(effects
 				(font
@@ -16672,7 +16672,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 306.07 97.79 0)
 			(effects
 				(font
@@ -16760,7 +16760,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 139.7 78.74 0)
 			(effects
 				(font
@@ -16848,7 +16848,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 115.57 0)
 			(effects
 				(font
@@ -17072,7 +17072,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 88.9 78.74 0)
 			(effects
 				(font
@@ -17160,7 +17160,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 378.46 78.74 0)
 			(effects
 				(font
@@ -17316,7 +17316,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 222.25 60.96 0)
 			(effects
 				(font
@@ -17540,7 +17540,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 97.79 0)
 			(effects
 				(font
@@ -17696,7 +17696,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 341.63 133.35 0)
 			(effects
 				(font
@@ -17920,7 +17920,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 204.47 97.79 0)
 			(effects
 				(font
@@ -18076,7 +18076,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 71.12 115.57 0)
 			(effects
 				(font
@@ -18164,7 +18164,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 341.63 78.74 0)
 			(effects
 				(font
@@ -18524,7 +18524,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 133.35 0)
 			(effects
 				(font
@@ -18612,7 +18612,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 171.45 60.96 0)
 			(effects
 				(font
@@ -18768,7 +18768,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 151.13 0)
 			(effects
 				(font
@@ -18856,7 +18856,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 240.03 60.96 0)
 			(effects
 				(font
@@ -18944,7 +18944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 204.47 133.35 0)
 			(effects
 				(font
@@ -19032,7 +19032,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 171.45 97.79 0)
 			(effects
 				(font
@@ -19120,7 +19120,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 358.14 97.79 0)
 			(effects
 				(font
@@ -19276,7 +19276,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 306.07 115.57 0)
 			(effects
 				(font
@@ -19364,7 +19364,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 106.68 78.74 0)
 			(effects
 				(font
@@ -19520,7 +19520,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 358.14 78.74 0)
 			(effects
 				(font
@@ -19608,7 +19608,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "1N4148W:SODFL3816X120N"
 			(at 171.45 115.57 0)
 			(effects
 				(font
