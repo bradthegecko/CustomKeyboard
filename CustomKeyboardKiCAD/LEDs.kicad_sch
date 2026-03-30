@@ -1839,16 +1839,6 @@
 	)
 	(wire
 		(pts
-			(xy 949.96 219.71) (xy 955.04 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ea139ab-f116-4bd0-b5e8-0869b858c9db")
-	)
-	(wire
-		(pts
 			(xy 435.61 219.71) (xy 440.69 219.71)
 		)
 		(stroke
@@ -2059,7 +2049,7 @@
 	)
 	(wire
 		(pts
-			(xy 915.67 219.71) (xy 920.75 219.71)
+			(xy 915.67 219.71) (xy 955.04 219.71)
 		)
 		(stroke
 			(width 0)
@@ -3189,16 +3179,6 @@
 	)
 	(wire
 		(pts
-			(xy 941.07 217.17) (xy 949.96 217.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c162d6aa-e665-4af7-8c98-e298f1ee9cd3")
-	)
-	(wire
-		(pts
 			(xy 906.78 217.17) (xy 915.67 217.17)
 		)
 		(stroke
@@ -3786,16 +3766,6 @@
 			(type default)
 		)
 		(uuid "edb3f506-bd92-4dd1-914d-8bdad82d4d92")
-	)
-	(wire
-		(pts
-			(xy 949.96 217.17) (xy 949.96 219.71)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "eec1d0fb-8c82-459f-b578-aa5bbd36b128")
 	)
 	(wire
 		(pts
@@ -5224,28 +5194,6 @@
 		(uuid "9f3e81f4-b171-4dcb-ae6b-fe314310645c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 565.15 259.5251 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "LED5V_NET"
-		(shape input)
-		(at 941.07 219.71 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "a045098b-9ce0-447c-b0a1-bae401dffb91")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 941.07 232.8551 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13287,125 +13235,6 @@
 			(project "LEDs"
 				(path "/c8871336-a77e-4639-961a-92a8ea9521fc"
 					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SK6812MINI-E:SK6812MINI-E_C5149201")
-		(at 930.91 218.44 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61c12104-56a8-49a9-8577-4cf5525ed064")
-		(property "Reference" "LED55"
-			(at 930.91 209.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 930.91 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "ai03:LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://item.szlcsc.com/datasheet/SK6812MINI-E/5773397.html"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer Part" "SK6812MINI-E"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer" "欧思科光电"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier Part" "C5149201"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Supplier" "LCSC"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC Part Name" "SK6812MINI-E"
-			(at 930.91 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "abaa9e9f-d73c-4984-a7fa-e2889b7dce91")
-		)
-		(pin "1"
-			(uuid "7f66cc5e-d5ee-4e2e-b27e-1f415530df9e")
-		)
-		(pin "4"
-			(uuid "4ed4f51a-8f0a-415b-bb12-d3c6795c811d")
-		)
-		(pin "3"
-			(uuid "c19ec010-a20e-482b-8d10-fd8801399e7b")
-		)
-		(instances
-			(project "CustomKeyboardKiCAD"
-				(path "/aaa1400c-18c9-4b83-ab7e-c530ca104a6d/b1111ac9-608b-4dfe-b586-313897de2924"
-					(reference "LED55")
 					(unit 1)
 				)
 			)
@@ -22644,72 +22473,6 @@
 			(project "CustomKeyboardKiCAD"
 				(path "/aaa1400c-18c9-4b83-ab7e-c530ca104a6d/b1111ac9-608b-4dfe-b586-313897de2924"
 					(reference "LED37")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 920.75 217.17 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d8544b97-9289-4084-bf9e-bd7ad83f92b2")
-		(property "Reference" "#PWR0111"
-			(at 914.4 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 919.48 213.36 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 920.75 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 920.75 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 920.75 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4ab8488c-e6d4-44f2-b3b8-aff5446a5497")
-		)
-		(instances
-			(project "CustomKeyboardKiCAD"
-				(path "/aaa1400c-18c9-4b83-ab7e-c530ca104a6d/b1111ac9-608b-4dfe-b586-313897de2924"
-					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
