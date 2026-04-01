@@ -4389,6 +4389,28 @@
 			)
 		)
 	)
+	(global_label "V_5VOUTUSB"
+		(shape input)
+		(at 152.4 210.82 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "371e3ede-4031-4164-88a8-420a46419fc3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 152.4 225.5981 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "LED5V_NET"
 		(shape input)
 		(at 1079.5 246.38 270)
@@ -4407,28 +4429,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS"
-		(shape input)
-		(at 96.52 200.66 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "38a9dcd0-baac-4ca7-a902-ca1e7dc1338c")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.52 192.7762 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -5040,28 +5040,6 @@
 		(uuid "85f8dbe1-7d3b-4380-a37c-288726323347")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 633.73 259.5251 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBUS"
-		(shape input)
-		(at 152.4 210.82 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8cc3a09c-f1ae-43d2-a22d-a6d6ee418202")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 152.4 218.7038 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5815,6 +5793,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "V_5VOUTUSB"
+		(shape input)
+		(at 96.52 200.66 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "cd980d18-e62c-4c82-8164-29949daee146")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.52 185.8819 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
